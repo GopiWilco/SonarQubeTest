@@ -1,6 +1,0 @@
-projectKey=Gopi
-serverUrl=http://localhost:9000
-serverVersion=9.4.0.54424
-dashboardUrl=http://localhost:9000/dashboard?id=Gopi
-ceTaskId=AYE0datkD4fPIM1WfqQ8
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYE0datkD4fPIM1WfqQ8

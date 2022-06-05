@@ -233,7 +233,7 @@ namespace WebApplication1.Controllers
             }
             catch (Exception ex)
             {
-                _loggingService.LogError("Molecular Match", "MolecularAnalyticsController -> GetSessionData()", ex);
+                
             }
 
             return currentMolecularMatchResultSessionSaved;

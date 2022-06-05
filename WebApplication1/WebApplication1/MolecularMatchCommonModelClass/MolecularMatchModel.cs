@@ -1,5 +1,4 @@
-﻿using WebApplication1.CDSCommonModelClass;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Web.Mvc;
 
@@ -24,7 +23,6 @@ namespace WebApplication1.MolecularMatchCommonModelClass
         public int Age { get; set; }
         public string Gender { get; set; }
         public string AttachmentPath { get; set; }
-        public List<MutationListItems> PatientMutation { get; set; }
         public string PatientName { get; set; }
         public string PrimaryClinicanName { get; set; }
         public string SearchKey { get; set; }
