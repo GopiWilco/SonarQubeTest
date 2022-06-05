@@ -51,7 +51,7 @@ namespace WebApplication1.Controllers
                 if (ContentPath.Exists)
                 {
                     var fs = new FileStream(Path.GetFullPath(filePath), FileMode.Open, FileAccess.Read, FileShare.ReadWrite);
-
+                     
                     using (var sr = new StreamReader(fs))
                     {
                         using (JsonTextReader reader = new JsonTextReader(sr))
