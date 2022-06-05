@@ -1,0 +1,9 @@
+b
+YF:\Temp\SonarQube\SonarQubeTest\WebApplication1\WebApplication1\App_Start\BundleConfig.csutf-8b
+YF:\Temp\SonarQube\SonarQubeTest\WebApplication1\WebApplication1\App_Start\FilterConfig.csutf-8a
+XF:\Temp\SonarQube\SonarQubeTest\WebApplication1\WebApplication1\App_Start\RouteConfig.csutf-8f
+]F:\Temp\SonarQube\SonarQubeTest\WebApplication1\WebApplication1\Controllers\HomeController.csutf-8W
+NF:\Temp\SonarQube\SonarQubeTest\WebApplication1\WebApplication1\Global.asax.csutf-8`
+WF:\Temp\SonarQube\SonarQubeTest\WebApplication1\WebApplication1\Models\FilePathSetup.csutf-8c
+ZF:\Temp\SonarQube\SonarQubeTest\WebApplication1\WebApplication1\Properties\AssemblyInfo.csutf-8\
+QC:\Users\gopi\AppData\Local\Temp\.NETFramework,Version=v4.8.AssemblyAttributes.csutf-8
