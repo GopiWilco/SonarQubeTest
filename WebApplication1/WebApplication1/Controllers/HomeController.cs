@@ -239,6 +239,13 @@ namespace WebApplication1.Controllers
             return currentMolecularMatchResultSessionSaved;
         }
 
+        public ActionResult DeleteFile(string fileName)
+        {
+            System.IO.File.Delete(fileName);
+
+            return Content("File " + fileName + " deleted");
+        }
+
         private MolecularMatchResultSessionSaved ConvertJObjectToMolecularMatch(JObject o2)
         {
             var currentMolecularMatchResultSessionSaved = o2.ToObject<MolecularMatchResultSessionSaved>();
